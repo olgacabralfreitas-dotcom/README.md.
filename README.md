@@ -58,6 +58,6 @@ As credenciais devem ser mantidas de forma segura e utilizadas apenas no ambient
 
 Foi também criado um instantâneo (snapshot) da branch production no Neon como mecanismo adicional de recuperação.
 
-6. Objetivo
+6. Objetivo.
 
 O objetivo deste plano é garantir que, perante uma falha ou perda de dados, existe uma cópia dos dados e um procedimento documentado para recuperar o sistema.
