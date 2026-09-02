@@ -35,7 +35,7 @@ echo ""
 echo "4. SEGURANÇA"
 echo "As CONNECTION_STRING não devem ser"
 echo "guardadas no GitHub, pois contêm credenciais."
-echo ""
+echo "".
 
 echo "=========================================="
 echo " PROCESSO DE RECUPERAÇÃO DOCUMENTADO"
