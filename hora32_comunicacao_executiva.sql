@@ -14,4 +14,4 @@ FROM Vendas v
 JOIN Produtos p
     ON v.produto_id = p.id
 WHERE v.data_venda::DATE = CURRENT_DATE - INTERVAL '1 day'
-GROUP BY v.data_venda::DATE;
+GROUP BY v.data_venda::DATE;.
