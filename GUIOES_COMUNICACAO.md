@@ -3,7 +3,7 @@
 ## Comunicação Executiva
 
 O objetivo do painel é apresentar os principais indicadores
-operacionais de forma simples e rápida.
+operacionais de forma simples e rápida..
 
 ### Mensagem ao Diretor
 
